@@ -6,7 +6,7 @@
 - 🌱 I’m currently into deep learning
 - 👯 Constantly looking for oppurtunities to learn and collaborate.
 - 🥅 Current goals - Keep Learning
-- ⚡ Times when i feel an adrenaline rush - when i'm behind the wheel and i'm before the keyboard.
+- ⚡ One step at a time
 
 
 ### Connect with me:
