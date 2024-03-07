@@ -3,7 +3,6 @@
 ## I love solving real world problems.
 
 <!-- - 🔭  -->
-- 🌱 I’m currently into learning about microservices
 - 👯 Constantly looking for oppurtunities to learn and collaborate.
 - 🥅 Current goals - Keep Learning
 - ⚡ One step at a time
