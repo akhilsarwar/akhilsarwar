@@ -1,6 +1,6 @@
 # Hi, I'm Akhil Sarwar 👋 
 
-## I love solving real world problems.
+## I love coding and solving real world problems.
 
 <!-- - 🔭  -->
 - 👯 Constantly looking for oppurtunities to code, learn and collaborate.
