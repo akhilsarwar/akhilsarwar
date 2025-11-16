@@ -3,7 +3,7 @@
 ## I love solving real world problems.
 
 <!-- - 🔭  -->
-- 👯 Constantly looking for oppurtunities to learn and collaborate.
+- 👯 Constantly looking for oppurtunities to code, learn and collaborate.
 - 🥅 Current goals - Keep Learning
 - ⚡ One step at a time
 
